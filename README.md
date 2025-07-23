@@ -15,4 +15,13 @@ Durante essa semana, praticamos conceitos fundamentais do JavaScript, com foco n
 Esses exercícios ajudaram a fortalecer o raciocínio lógico e a manipulação de dados em JavaScript.
 
 ## 🧠 Arquivos do Repositório
+## 👩‍💻 Integrantes do Grupo 17
+
+Este projeto foi realizado por um grupo de estudantes reais da Jornada Tech:
+
+- Paula Azevêdo 
+- Rayssa Simões
+- Nay Rodrigues
+- Gracielen Lima
+
 
