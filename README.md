@@ -22,6 +22,6 @@ Este projeto foi realizado por um grupo de estudantes reais da Jornada Tech:
 - Paula Azevêdo 
 - Rayssa Simões
 - Nay Rodrigues
-- Gracielen Lima
+- Gracielen Garbine 
 
 
