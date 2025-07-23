@@ -102,7 +102,7 @@ const students = [
   { id: 1, name: "Paula Azevêdo", age: 39, grades: [90, 88, 95], active: true },
   { id: 2, name: "Rayssa Simões", age: 19, grades: [70, 75, 80], active: true },
   { id: 3, name: "Nay Rodrigues", age: 29, grades: [60, 65, 58], active: false },
-  { id: 4, name: "Gracielen Lima", age: 19, grades: [95, 91, 89], active: true },
+  { id: 4, name: "Gracielen Garbine ", age: 25, grades: [95, 91, 89], active: true },
   { id: 5, name: "Sigmund Freud", age: 10, grades: [85, 84, 86], active: false },
 ]
 
