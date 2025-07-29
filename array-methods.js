@@ -1,6 +1,7 @@
 // Arquivo: array-methods.js
 // Autora: Paula Azevêdo
 // Idade: 39 anos
+// Grupo 17 DevBot
 // Finalidade: Exercício de prática com funções, rest, spread, desestruturação e arrays
 
 // 1. Função tradicional - soma dois números
